@@ -11,4 +11,35 @@ CDC: Centers for Disease Control and Prevention
 BRFSS: Behavioral Risk Factor Surveillance System is a telephonic survey that collects state data about U.S residents regarding their health related risk behaviours, chronic health conditions and use of preventive services.
 <br>
 Purpose: Track and monitor behaviors and and risk factors associated with nutrition, physical activity and obesity among adults.
+<br>
+<br>
+# Basic information about features:
+The dataset contains 33 features and 53392 rows.
+<br>
+Basic description of important features:
+<br>
+YearStart and YearEnd: This dipicts the start and end year of the survey.
+<br>
+LocationDesc: This feature has all the location names data is taken from.
+<br>
+Class: This feature has 3 categories namely obesity/weight status, fruits and vegetables and physical activiy.
+<br>
+Question: This feature has 9 categories, questions regarding each "Class".
+<br>
+Low and High Confidence limit: It has lower and upper bound values, that the data will lie in between.
+<br>
+Data_Value: We have taken Data_Value_Alt feature as target, because we want to predict the percentage of surety that a value will lie in the given interval.
+<br>
+Age: Different age categories are given.
+<br>
+Income: Different income categories are given.
+<br>
+Education: Different education categories are given.
+<br>
+Gender: 2 categories are given.
+<br>
+Race/Ethnicity: Different race/ethnicity categories are given.
+
+
+
 
