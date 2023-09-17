@@ -39,6 +39,15 @@ Education: Different education categories are given.
 Gender: 2 categories are given.
 <br>
 Race/Ethnicity: Different race/ethnicity categories are given.
+<br>
+<br>
+# Work Distribution:
+<br>
+We have divided the dataset as per classes. Every member is selecting a particular class and observing the variations and predicing the Data_Value.
+<br>
+For the methodolgy and results every branch has a separate readme file and individual observations are written there. 
+<br>
+For the master branch observations are written at end of the code.
 
 
 
