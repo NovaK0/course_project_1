@@ -43,7 +43,7 @@ Race/Ethnicity: Different race/ethnicity categories are given.
 <br>
 # Work Distribution:
 <br>
-We have divided the dataset as per classes. Every member is selecting a particular class and observing the variations and predicing the Data_Value.
+We have divided the dataset as per classes. Every member is selecting a particular class and observing the variations and predicting the Data_Value.
 <br>
 For the methodolgy and results every branch has a separate readme file and individual observations are written there. 
 <br>
