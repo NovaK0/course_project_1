@@ -6,7 +6,7 @@ Which have different classes like,<br>
 
 I am working on the specific class which is "Obesity / Weight Status".<br>
 I have taken Data_Value feature as target, because I want to predict the percentage of surety that a value will lie in the given interval for the particular class "Obesity / Weight Status"<br>
-I have perform data cleaning, dropping duplicates column, dropping columns which had more than 70 percentage missing value.<br>
+I have performed data cleaning, dropping duplicates column, dropping columns which had more than 70 percentage missing value.<br>
 
 I have performed EDA, plotting graph between different features of class "Obesity / Weight Status" like pie chart, histogram, box plot etc...<br>
 then i have show the heatmap for getting correlation between those features.<br>
