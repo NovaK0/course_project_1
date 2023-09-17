@@ -1,5 +1,4 @@
 ## Course-Project-1 of Introduction to Data Mining
-## Shah Shubham. ID no: 202311049
 
 The dataset focuses on people's health status, with obesity being a risk if they don't get enough nutrients or engage in physical exercise. To analyze the data, we observe unnecessary columns and remove them, determining the number of null values. We plot a Piechart for the Class column to see the percentages of different labels, such as Fruits and Vegetables, Physical Activity, and Obesity/Weight Status.
 
