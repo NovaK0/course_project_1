@@ -24,5 +24,5 @@ Our model training focused on Income and Education features. We discovered that 
 
 <br>
 
-For GitHub README, you can use '<br>' at the end of a section to create line breaks for better formatting and readability.
+
 
