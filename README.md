@@ -1,5 +1,5 @@
-we have got dataset of Nutrition__Physical_Activity__and_Obesity_-_Behavioral_Risk_Factor_Surveillance_System of size 53392 instances and 33 columns,<br>
-which have different classes like,<br>
+We have got dataset of Nutrition__Physical_Activity__and_Obesity_-_Behavioral_Risk_Factor_Surveillance_System of size 53392 instances and 33 columns,<br>
+Which have different classes like,<br>
 1.Obesity / Weight Status<br>
 2.Fruits and Vegetables<br>
 3.Physical Activity.<br>
