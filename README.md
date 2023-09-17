@@ -1,6 +1,6 @@
 # course_project_1
 Course Project 1 for the subject of Introduction to data mining.
-Dataset Information :
+# Dataset Information :
 Name : Nutrition, Physical Activity, and Obesity - Behavioral Risk Factor  Surveillance System dataset
 This dataset is often used for public health research and epidemiological studies. The dataset is collected and maintained by the Centers for Disease Control and Prevention (CDC) in the United States. The dataset is typically available in CSV format, making it easy to load and analyze using various data analysis tools and programming languages.
 Data Coverage:
